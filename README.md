@@ -3,7 +3,7 @@ This homework is optional ⚠️
 
 # Instructions 📋
 ---
-### Play around with Andriod Studio and make atleast one Activity.
+### Play around with Andriod Studio and make at least one Activity.
 
 ![alt text](https://github.com/Tuwaiq-KotlinAndroid2-DMM/HW_Week2_Day5_WorkingWithAndriodStudio/blob/main/Mobile-App.png)
 
