@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DAD8D8"
+    tools:context=".secondactivity">
+
+    <TextView
+        android:id="@+id/textViewLable1"
+        android:layout_width="294dp"
+        android:layout_height="59dp"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginEnd="61dp"
+        android:layout_marginBottom="512dp"
+        android:background="#8657A7"
+        android:hint="Welcome Nora"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="34sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
