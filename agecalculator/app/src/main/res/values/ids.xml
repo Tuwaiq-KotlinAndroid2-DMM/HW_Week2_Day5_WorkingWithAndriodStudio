@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextetage" type="id" />
+    <item name="bugetage" type="id" />
+</resources>
